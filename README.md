@@ -1,1 +1,1 @@
-# Exerccícios da Aula de Javascript EBAC
+# Exercícios da Aula de Javascript EBAC
