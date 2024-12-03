@@ -7,3 +7,5 @@ const minIndice = array.indexOf(Math.min(...array))
 console.log(`Maior valor: ${array[maxIndice]}`)
 console.log(`Menor valor: ${array[minIndice]}`)
 
+module.exports = { array, maxIndice, minIndice };
+

@@ -10,3 +10,5 @@ const mdc = function(a, b) {
 
 console.log(mdc(12, 18));
 
+module.exports = { mdc };
+
